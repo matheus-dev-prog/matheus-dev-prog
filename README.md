@@ -1,5 +1,4 @@
-# Hi!!! 
-# I'm Matheus Souza😃	
+# Hi! I'm Matheus Souza😃	
 # About me: 
 I am a Back-End Developer focused on creating applications using the c# language
 # Contact me:
