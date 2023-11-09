@@ -34,3 +34,5 @@ I am a Developer Full-stack focused on creating web applications
    
    
 </div>
+
+![Snake animation](https://github.com/theuldev/snake-svg/blob/main/github-user-contribution.svg)
