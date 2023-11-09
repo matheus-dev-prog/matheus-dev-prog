@@ -1,11 +1,15 @@
-# Hi! I'm Matheus Souza😃	
+
+<div align="center">
+   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Inter+var+experInter+var+experimentalmental&weight=800&size=30&pause=1000&color=2F9CB6&random=false&width=435&lines=Hi!+I'm+Matheus+Souza%F0%9F%98%83" alt="Typing SVG" /></a>
+</div>
+
 # About me: 
 I am a Back-End Developer focused on creating applications using the c# language
 
 <div>
   
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=theuldev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuldev&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=theuldev&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&title_color=2F9CB6FF&text_color=2F9CB6FF&icon_color=2F9CB6FF&border_color=2F9CB6FF"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuldev&layout=compact&langs_count=16&theme=great-gatsby&title_color=2F9CB6FF&text_color=2F9CB6FF&border_color=2F9CB6FF"/>
 </div>
 <br>
  
