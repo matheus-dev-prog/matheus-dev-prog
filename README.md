@@ -4,7 +4,7 @@
 </div>
 
 # About me: 
-I am a Back-End Developer focused on creating applications using the c# language
+I am a Developer Full-stack focused on creating web applications
 
 <div>
   
