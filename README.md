@@ -2,10 +2,12 @@
 # About me: 
 I am a Back-End Developer focused on creating applications using the c# language
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=theuldev&theme=radical&mode=weekly" />
-<img width=40% align="center" src="theuldev-theuldevs-projects.vercel.app/api/top-langs/?username=theuldev&show_icons=true&theme=radical&layout=compact" />
- </div>
+<div>
+  
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theuldev&layout=compact&langs_count=16&theme=great-gatsby"/>
+</div>
+<br>
  
  &nbsp;
  &nbsp;
